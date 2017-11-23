@@ -1,0 +1,6 @@
+.vs
+packages
+RandomDataGenerator/bin
+RandomDataGenerator/obj
+RandomDataGenerator.Tests/bin
+RandomDataGenerator.Tests/obj
